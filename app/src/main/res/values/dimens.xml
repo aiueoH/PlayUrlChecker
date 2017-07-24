@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="flat_btn_corner_radius">4dp</dimen>
+    <dimen name="flat_btn_shadow">3dp</dimen>
+    <dimen name="flat_btn_padding">10dp</dimen>
+</resources>
